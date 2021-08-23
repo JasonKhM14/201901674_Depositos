@@ -1,0 +1,10 @@
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\bin\Debug\201901674_Depositos.exe.config
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\bin\Debug\201901674_Depositos.exe
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\bin\Debug\201901674_Depositos.pdb
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\201901674_Depositos.csprojAssemblyReference.cache
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\_201901674_Depositos.Form1.resources
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\_201901674_Depositos.Properties.Resources.resources
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\201901674_Depositos.csproj.GenerateResource.cache
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\201901674_Depositos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\201901674_Depositos.exe
+D:\Escritorio\Jason\U\Segundo Semestre 2021\Progra\201901674_Depositos\201901674_Depositos\obj\Debug\201901674_Depositos.pdb
